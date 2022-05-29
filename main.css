@@ -1,0 +1,69 @@
+/*body{
+	background-color: #9932CC;
+}
+
+p{
+	background-color:#DA70D6;
+}*/
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+/*img{
+	max-width: 700px;
+	width: 100%;
+	display: block;
+	height: 70%;
+	margin: auto;
+}
+p1{
+	padding: 12px;
+	margin: 45px;
+	box-sizing: border-box;
+}*/
+
+body{
+	background-color :#000;
+}
+main{
+	padding: 12px;
+	margin: 45px;
+	width: 100%;
+	background-color :#CD5C5C;
+	display: flex;
+	flex-wrap:wrap;
+	justify-content: center;
+	background-position: center;
+	background-size: cover;
+}
+.photo{
+	width:260px;
+	height:320px;
+	margin: 20px;
+	background-color :#000;
+	justify-content: center;
+	background-position: center;
+	background-size: cover;
+}
+.photo1{
+	background-image: url(qwe/img/zxc1.jpg)
+} 
+.photo2{
+	background-image: url(qwe/img/daxak.jpg)
+}
+.photo3{
+	
+	background-image: url(qwe/img/weaver.jpg)
+}
+.photo4{
+	
+	background-image: url(qwe/img/weaver1.jpg)
+}
+.photo5{
+	
+	background-image: url(qwe/img/puck.jpg)
+}
+
